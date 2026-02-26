@@ -10,6 +10,6 @@
     "node": "18.x"
   },
   "dependencies": {
-    "discord.js": "^13.17.1"
+    "discord.js": "^14.14.1"
   }
 }
